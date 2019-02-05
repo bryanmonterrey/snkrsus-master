@@ -1,1 +1,1 @@
-worker: node monitor.js
+worker: nodemon monitor.js
